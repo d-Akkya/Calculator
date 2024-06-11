@@ -1,1 +1,1 @@
-Built a Calculator from basic HTML, CSS & JS.
+# Built a Calculator from basic HTML, CSS & JS.
